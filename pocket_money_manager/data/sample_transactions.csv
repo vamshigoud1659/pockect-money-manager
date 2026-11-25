@@ -1,0 +1,43 @@
+id,date,type,category,amount,note
+s001,2026-08-01,received,Allowance,3000.0,Monthly pocket money from parents
+s002,2026-08-02,spent,Books & Stationery,450.0,Semester notebooks and pens
+s003,2026-08-04,spent,Food,120.0,Canteen lunch with friends
+s004,2026-08-07,spent,Transport,200.0,Bus pass top-up
+s005,2026-08-10,spent,Mobile Recharge,299.0,Monthly data pack
+s006,2026-08-12,received,Gift,500.0,Raksha Bandhan gift from aunt
+s007,2026-08-15,spent,Entertainment,250.0,Movie ticket
+s008,2026-08-19,spent,Food,85.5,Evening snacks
+s009,2026-08-23,spent,Shopping,699.0,New T-shirt
+s010,2026-08-27,spent,Food,140.0,Pizza share
+s011,2026-09-01,received,Allowance,3000.0,Monthly pocket money from parents
+s012,2026-09-03,spent,Transport,200.0,Bus pass top-up
+s013,2026-09-05,received,Part-time Job,1200.0,Weekend tutoring - 2 sessions
+s014,2026-09-08,spent,Food,0.01,Boundary test: smallest valid amount
+s015,2026-09-09,spent,Mobile Recharge,299.0,Monthly data pack
+s016,2026-09-12,spent,Books & Stationery,380.0,Python reference book
+s017,2026-09-14,spent,Food,160.0,Cafe with study group
+s018,2026-09-18,spent,Health,220.0,Pharmacy - cold medicine
+s019,2026-09-21,spent,Entertainment,400.0,College fest pass
+s020,2026-09-25,spent,Food,95.0,Juice and sandwich
+s021,2026-09-28,received,Prize,750.0,2nd place in coding quiz
+s022,2026-10-01,received,Allowance,3000.0,Monthly pocket money from parents
+s023,2026-10-02,spent,Transport,200.0,Bus pass top-up
+s024,2026-10-05,spent,Food,130.0,Canteen lunch
+s025,2026-10-08,spent,Mobile Recharge,299.0,Monthly data pack
+s026,2026-10-11,spent,Shopping,2499.0,Wireless earbuds (big purchase)
+s027,2026-10-15,spent,Food,180.0,Birthday treat for roommate
+s028,2026-10-19,received,Part-time Job,800.0,Weekend tutoring
+s029,2026-10-21,spent,Entertainment,350.0,Bowling night
+s030,2026-10-24,spent,Books & Stationery,120.0,Printouts for project
+s031,2026-10-28,spent,Food,75.0,Tea and samosa
+s032,2026-10-31,spent,Other,300.0,Diwali decorations
+s033,2026-11-01,received,Allowance,3000.0,Monthly pocket money from parents
+s034,2026-11-02,received,Gift,1000.0,Diwali gift from grandparents
+s035,2026-11-03,spent,Transport,200.0,Bus pass top-up
+s036,2026-11-05,spent,Mobile Recharge,299.0,Monthly data pack
+s037,2026-11-07,spent,Food,210.0,Dinner out
+s038,2026-11-10,spent,Shopping,1299.0,Hackathon hoodie and backpack
+s039,2026-11-13,spent,Books & Stationery,560.0,Exam prep guides
+s040,2026-11-16,spent,Entertainment,199.0,Streaming subscription
+s041,2026-11-18,received,Refund,150.0,Returned faulty charger
+s042,2026-11-20,spent,Food,145.0,Hackathon snacks

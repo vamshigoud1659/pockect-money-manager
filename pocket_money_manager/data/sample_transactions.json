@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "transactions": [
+    {
+      "id": "s001",
+      "date": "2026-08-01",
+      "type": "received",
+      "category": "Allowance",
+      "amount": 3000.0,
+      "note": "Monthly pocket money from parents"
+    },
+    {
+      "id": "s002",
+      "date": "2026-08-02",
+      "type": "spent",
+      "category": "Books & Stationery",
+      "amount": 450.0,
+      "note": "Semester notebooks and pens"
+    },
+    {
+      "id": "s003",
+      "date": "2026-08-04",
+      "type": "spent",
+      "category": "Food",
+      "amount": 120.0,
+      "note": "Canteen lunch with friends"
+    },
+    {
+      "id": "s004",
+      "date": "2026-08-07",
+      "type": "spent",
+      "category": "Transport",
+      "amount": 200.0,
+      "note": "Bus pass top-up"
+    },
+    {
+      "id": "s005",
+      "date": "2026-08-10",
+      "type": "spent",
+      "category": "Mobile Recharge",
+      "amount": 299.0,
+      "note": "Monthly data pack"
+    },
+    {
+      "id": "s006",
+      "date": "2026-08-12",
+      "type": "received",
+      "category": "Gift",
+      "amount": 500.0,
+      "note": "Raksha Bandhan gift from aunt"
+    },
+    {
+      "id": "s007",
+      "date": "2026-08-15",
+      "type": "spent",
+      "category": "Entertainment",
+      "amount": 250.0,
+      "note": "Movie ticket"
+    },
+    {
+      "id": "s008",
+      "date": "2026-08-19",
+      "type": "spent",
+      "category": "Food",
+      "amount": 85.5,
+      "note": "Evening snacks"
+    },
+    {
+      "id": "s009",
+      "date": "2026-08-23",
+      "type": "spent",
+      "category": "Shopping",
+      "amount": 699.0,
+      "note": "New T-shirt"
+    },
+    {
+      "id": "s010",
+      "date": "2026-08-27",
+      "type": "spent",
+      "category": "Food",
+      "amount": 140.0,
+      "note": "Pizza share"
+    },
+    {
+      "id": "s011",
+      "date": "2026-09-01",
+      "type": "received",
+      "category": "Allowance",
+      "amount": 3000.0,
+      "note": "Monthly pocket money from parents"
+    },
+    {
+      "id": "s012",
+      "date": "2026-09-03",
+      "type": "spent",
+      "category": "Transport",
+      "amount": 200.0,
+      "note": "Bus pass top-up"
+    },
+    {
+      "id": "s013",
+      "date": "2026-09-05",
+      "type": "received",
+      "category": "Part-time Job",
+      "amount": 1200.0,
+      "note": "Weekend tutoring - 2 sessions"
+    },
+    {
+      "id": "s014",
+      "date": "2026-09-08",
+      "type": "spent",
+      "category": "Food",
+      "amount": 0.01,
+      "note": "Boundary test: smallest valid amount"
+    },
+    {
+      "id": "s015",
+      "date": "2026-09-09",
+      "type": "spent",
+      "category": "Mobile Recharge",
+      "amount": 299.0,
+      "note": "Monthly data pack"
+    },
+    {
+      "id": "s016",
+      "date": "2026-09-12",
+      "type": "spent",
+      "category": "Books & Stationery",
+      "amount": 380.0,
+      "note": "Python reference book"
+    },
+    {
+      "id": "s017",
+      "date": "2026-09-14",
+      "type": "spent",
+      "category": "Food",
+      "amount": 160.0,
+      "note": "Cafe with study group"
+    },
+    {
+      "id": "s018",
+      "date": "2026-09-18",
+      "type": "spent",
+      "category": "Health",
+      "amount": 220.0,
+      "note": "Pharmacy - cold medicine"
+    },
+    {
+      "id": "s019",
+      "date": "2026-09-21",
+      "type": "spent",
+      "category": "Entertainment",
+      "amount": 400.0,
+      "note": "College fest pass"
+    },
+    {
+      "id": "s020",
+      "date": "2026-09-25",
+      "type": "spent",
+      "category": "Food",
+      "amount": 95.0,
+      "note": "Juice and sandwich"
+    },
+    {
+      "id": "s021",
+      "date": "2026-09-28",
+      "type": "received",
+      "category": "Prize",
+      "amount": 750.0,
+      "note": "2nd place in coding quiz"
+    },
+    {
+      "id": "s022",
+      "date": "2026-10-01",
+      "type": "received",
+      "category": "Allowance",
+      "amount": 3000.0,
+      "note": "Monthly pocket money from parents"
+    },
+    {
+      "id": "s023",
+      "date": "2026-10-02",
+      "type": "spent",
+      "category": "Transport",
+      "amount": 200.0,
+      "note": "Bus pass top-up"
+    },
+    {
+      "id": "s024",
+      "date": "2026-10-05",
+      "type": "spent",
+      "category": "Food",
+      "amount": 130.0,
+      "note": "Canteen lunch"
+    },
+    {
+      "id": "s025",
+      "date": "2026-10-08",
+      "type": "spent",
+      "category": "Mobile Recharge",
+      "amount": 299.0,
+      "note": "Monthly data pack"
+    },
+    {
+      "id": "s026",
+      "date": "2026-10-11",
+      "type": "spent",
+      "category": "Shopping",
+      "amount": 2499.0,
+      "note": "Wireless earbuds (big purchase)"
+    },
+    {
+      "id": "s027",
+      "date": "2026-10-15",
+      "type": "spent",
+      "category": "Food",
+      "amount": 180.0,
+      "note": "Birthday treat for roommate"
+    },
+    {
+      "id": "s028",
+      "date": "2026-10-19",
+      "type": "received",
+      "category": "Part-time Job",
+      "amount": 800.0,
+      "note": "Weekend tutoring"
+    },
+    {
+      "id": "s029",
+      "date": "2026-10-21",
+      "type": "spent",
+      "category": "Entertainment",
+      "amount": 350.0,
+      "note": "Bowling night"
+    },
+    {
+      "id": "s030",
+      "date": "2026-10-24",
+      "type": "spent",
+      "category": "Books & Stationery",
+      "amount": 120.0,
+      "note": "Printouts for project"
+    },
+    {
+      "id": "s031",
+      "date": "2026-10-28",
+      "type": "spent",
+      "category": "Food",
+      "amount": 75.0,
+      "note": "Tea and samosa"
+    },
+    {
+      "id": "s032",
+      "date": "2026-10-31",
+      "type": "spent",
+      "category": "Other",
+      "amount": 300.0,
+      "note": "Diwali decorations"
+    },
+    {
+      "id": "s033",
+      "date": "2026-11-01",
+      "type": "received",
+      "category": "Allowance",
+      "amount": 3000.0,
+      "note": "Monthly pocket money from parents"
+    },
+    {
+      "id": "s034",
+      "date": "2026-11-02",
+      "type": "received",
+      "category": "Gift",
+      "amount": 1000.0,
+      "note": "Diwali gift from grandparents"
+    },
+    {
+      "id": "s035",
+      "date": "2026-11-03",
+      "type": "spent",
+      "category": "Transport",
+      "amount": 200.0,
+      "note": "Bus pass top-up"
+    },
+    {
+      "id": "s036",
+      "date": "2026-11-05",
+      "type": "spent",
+      "category": "Mobile Recharge",
+      "amount": 299.0,
+      "note": "Monthly data pack"
+    },
+    {
+      "id": "s037",
+      "date": "2026-11-07",
+      "type": "spent",
+      "category": "Food",
+      "amount": 210.0,
+      "note": "Dinner out"
+    },
+    {
+      "id": "s038",
+      "date": "2026-11-10",
+      "type": "spent",
+      "category": "Shopping",
+      "amount": 1299.0,
+      "note": "Hackathon hoodie and backpack"
+    },
+    {
+      "id": "s039",
+      "date": "2026-11-13",
+      "type": "spent",
+      "category": "Books & Stationery",
+      "amount": 560.0,
+      "note": "Exam prep guides"
+    },
+    {
+      "id": "s040",
+      "date": "2026-11-16",
+      "type": "spent",
+      "category": "Entertainment",
+      "amount": 199.0,
+      "note": "Streaming subscription"
+    },
+    {
+      "id": "s041",
+      "date": "2026-11-18",
+      "type": "received",
+      "category": "Refund",
+      "amount": 150.0,
+      "note": "Returned faulty charger"
+    },
+    {
+      "id": "s042",
+      "date": "2026-11-20",
+      "type": "spent",
+      "category": "Food",
+      "amount": 145.0,
+      "note": "Hackathon snacks"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+date,type,category,amount,note
+2026-11-21,spent,Food,120,Valid row - will be imported
+2026-11-21,received,Allowance,abc,Non-numeric amount
+2026-13-05,spent,Food,50,Impossible month
+2026-11-19,spent,Food,-40,Negative amount
+2026-11-19,spent,Pets,100,Unknown category
+,spent,Food,60,Missing date
+2026-11-19,borrowed,Other,60,Unknown type
+2026-11-19,spent,Transport,250000,Amount above the limit
+2099-01-01,spent,Food,30,Date in the future
+2026-11-21,received,Gift,200.00,Valid row - will be imported
